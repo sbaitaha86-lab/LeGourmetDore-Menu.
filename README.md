@@ -52,7 +52,7 @@ L’application vise à **digitaliser l’expérience client**, réduire les co�
 * **React.js**
 * React Router
 * Axios
-* Tailwind CSS / CSS moderne
+* CSS moderne
 * Responsive Design (Mobile First)
 
 ### Back-end
